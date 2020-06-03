@@ -5,7 +5,7 @@ The app layout is based on [bootstrap](https://getbootstrap.com) and it is ready
 
 If you want to use this skeleton as your project start point just clone the repository:
 ```shell script
-git clone https://github.com/francescobarbarulo/docker-flask-bootstrap
+git clone https://github.com/francescobarbarulo/docker-flask-bootstrap.git
 ```
 
 ## Deploy
